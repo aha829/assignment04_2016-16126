@@ -1,0 +1,69 @@
+.header {
+	font-size: 18px;
+ 	padding: 10px;
+ 	text-transform: uppercase;
+ 	background-color: #faebd7
+}
+.jumbotron {
+	background-image:url('https://image.bugsm.co.kr/artist/images/1000/75/7536.jpg');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	font-family: 나눔고딕;
+}
+.container {
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.jumbotron h1{
+	text-align: center;
+	font-size: 36px;
+	position: relative;
+	top: 100px;
+}
+.jumbotron p{
+	font-size: 14px;
+	position: relative;
+	top: 400px
+}
+.coral {
+	color: #f08080;
+}
+.main{
+	text-align: center;
+	padding: 10px;
+	background-color: #efefef
+}
+.main h2 {
+	font-family: 나눔고딕;
+}
+a:link{
+	text-decoration: none;
+	color: black;
+}
+a:visited {
+	color: black;
+}
+a:hover {
+    text-decoration: underline;
+    color: #929292;
+}
+.box {
+	margin: auto;
+	width: 370px;
+	height: 450px;
+	text-align: center;
+	display: inline-block;
+	font-family: Gill Sans;
+}
+.footer {
+	font-size: 40px;
+	font-family: Copperplate;
+	text-transform: uppercase;
+	text-align: center;
+	background-color: #ffffff
+	
+}
+

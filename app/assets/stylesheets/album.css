@@ -1,0 +1,51 @@
+.header{
+	text-align: center;
+	width: 690px;
+	height: 50px;
+	background-color: #c0c0c0;
+	font-family: Copperplate;
+	font-size: medium;
+}
+
+.song{
+	font-family: 나눔고딕;
+	position: relative;
+	background-color: #f0f0f0;
+	width: 340px;
+	height: 360px;
+	float: left;
+}
+
+.song ol{
+	padding: 20px;
+	margin: 20px;
+}
+
+.art{
+	position: relative;
+	float: left;
+	width: 360px;
+}
+
+.footer{
+	font-size: medium;
+	font-family: 나눔고딕;
+	width: 670px;
+	padding: 15px;
+	position: relative;
+	clear: both;
+	background-color: #392f31
+}
+.footer p{
+	color: #ffffff;
+}
+
+a:link {
+	color: #929292;
+}
+a:hover {
+	color: black;
+}
+a:visited {
+	color: #929292;
+}
